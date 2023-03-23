@@ -11,4 +11,11 @@ int main() {
         printf("%d\n", *(data + i));
     return 0;
 }
-
+output:
+Enter elements: dhoni
+You entered: 
+0
+0
+0
+0
+0
